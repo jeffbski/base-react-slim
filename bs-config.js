@@ -17,8 +17,8 @@ module.exports = {
     // since we are using browser-sync-webpack-plugin
     // and webpack is now building js and css, it will trigger reload
     // for the following files
-    // 'dist/main.js', // not needed w/browsersync-webpack-plugin
-    // 'dist/site.min.css' // not needed w/browsersync-webpack-plugin
+    // 'dist/main.js',
+    // 'dist/style.min.css'
   ],
   server: {
     baseDir: './public',

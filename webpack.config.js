@@ -47,7 +47,7 @@ var config = {
                                           'css!clean-css!postcss!less' :
                                           'css!postcss!less'
                                          )
-      },
+      }
       // can uncomment this if need to compile joi, isemail, hoek, topo
       // {
       //   // need to babelify joi, isemail, hoek, and topo's lib
